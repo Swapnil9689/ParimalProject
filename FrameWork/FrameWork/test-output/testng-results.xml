@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-18T21:58:31 IST" name="Suite" finished-at="2022-01-18T21:59:40 IST" duration-ms="69799">
+    <groups>
+    </groups>
+    <test started-at="2022-01-18T21:58:31 IST" name="Test" finished-at="2022-01-18T21:59:40 IST" duration-ms="69799">
+      <class name="com.QA.TestExecution.DemoWeb_TestExecution">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:58:31 IST" name="setup" finished-at="2022-01-18T21:58:49 IST" duration-ms="18670" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CheckSignInButton()[pri:1, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:58:49 IST" name="CheckSignInButton" finished-at="2022-01-18T21:58:52 IST" duration-ms="2826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSignInButton -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:58:52 IST" name="teardown" finished-at="2022-01-18T21:58:52 IST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:58:53 IST" name="setup" finished-at="2022-01-18T21:59:00 IST" duration-ms="7974" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CheckSearchBox()[pri:2, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:00 IST" name="CheckSearchBox" finished-at="2022-01-18T21:59:03 IST" duration-ms="2026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSearchBox -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:03 IST" name="teardown" finished-at="2022-01-18T21:59:03 IST" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:03 IST" name="setup" finished-at="2022-01-18T21:59:11 IST" duration-ms="8625" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CheckMajorTabs()[pri:3, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:11 IST" name="CheckMajorTabs" finished-at="2022-01-18T21:59:19 IST" duration-ms="7772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckMajorTabs -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:19 IST" name="teardown" finished-at="2022-01-18T21:59:20 IST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:20 IST" name="setup" finished-at="2022-01-18T21:59:28 IST" duration-ms="8846" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CheckAddToCartButton()[pri:4, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:28 IST" name="CheckAddToCartButton" finished-at="2022-01-18T21:59:30 IST" duration-ms="2005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckAddToCartButton -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:30 IST" name="teardown" finished-at="2022-01-18T21:59:31 IST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:31 IST" name="setup" finished-at="2022-01-18T21:59:39 IST" duration-ms="8496" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CheckSuvBlocks()[pri:5, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:39 IST" name="CheckSuvBlocks" finished-at="2022-01-18T21:59:40 IST" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSuvBlocks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.QA.TestExecution.DemoWeb_TestExecution@67a20f67]" started-at="2022-01-18T21:59:40 IST" name="teardown" finished-at="2022-01-18T21:59:40 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.QA.TestExecution.DemoWeb_TestExecution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
